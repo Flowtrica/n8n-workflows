@@ -39,5 +39,5 @@ Want help building your own workflows? Visit [flowtrica.com](https://flowtrica.c
 
 ## 📝 License
 
-This repository is open-source and provided under the [MIT License](LICENSE). Feel free to use, adapt, and build upon these examples in your own projects.
+This repository is open-source and provided under the [Apache 2.0 License](LICENSE). Feel free to use, adapt, and build upon these examples in your own projects.
 
